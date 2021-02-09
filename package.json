@@ -1,0 +1,20 @@
+{
+  "name": "Portfolio-Version-4-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bee-byte/Portfolio-Version-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bee-byte/Portfolio-Version-4/issues"
+  },
+  "homepage": "https://github.com/bee-byte/Portfolio-Version-4#readme"
+}
